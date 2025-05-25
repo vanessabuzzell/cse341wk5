@@ -1,4 +1,27 @@
 // LOCALHOST
 ### 
  GET http://localhost:8080/oils 
-###
+
+### Create oil 
+ 
+POST http://localhost:8080/oils HTTP/1.1 content-type: application/json
+{
+"oil2": {
+      "Name": "lavender",
+      "brand": "youngliving",
+      "discription": "good for sleep",
+      "directions": "put on feet and chest",
+      "made": "in washingtion state"
+    }
+}
+
+### PUT contact 
+PUT http://localhost:8080/oils HTTP/1.1 content-type: application/json
+
+{
+      "Name": "lavender",
+      "brand": "youngliving",
+      "discription": "good for sleep",
+      "directions": "put on feet and chest",
+      "made": "in washingtion state"
+    }
