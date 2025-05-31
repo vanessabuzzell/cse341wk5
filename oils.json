@@ -1,28 +1,212 @@
 {
-  "oil1": {
-    "Name": "oregno",
-    "brand": "youngliving",
-    "discription": "good for everything",
-    "directions": "put on feet",
-    "made": "in italy"
+  "oregano": {
+    "Name": "Oregano",
+    "Brand": "Young Living",
+    "Description": "Good for everything.",
+    "Directions": "Apply topically to the bottoms of feet or dilute with a carrier oil for other topical applications. Can also be diffused aromatically.",
+    "Made In": "Italy"
   },
-
-  "oil2": {
-    "Name": "oregno",
-    "brand": "youngliving",
-    "discription": "good for everything",
-    "directions": "put on feet",
-    "made": "in italy"
+  "lavender": {
+    "Name": "Lavender",
+    "Brand": "doTERRA",
+    "Description": "Calming and relaxing aroma. Soothes occasional skin irritations.",
+    "Directions": "Diffuse aromatically, apply topically to the skin, or add a few drops to bath water.",
+    "Made In": "Bulgaria, France"
   },
-
-  "oil3": {
-    "Name": "oregno",
-    "brand": "youngliving",
-    "discription": "good for everything",
-    "directions": "put on feet",
-    "made": "in italy"
+  "lemon": {
+    "Name": "Lemon",
+    "Brand": "Young Living",
+    "Description": "Uplifting and purifying aroma. Can be used to clean surfaces.",
+    "Directions": "Diffuse aromatically, add to water for internal use, or apply topically (avoid sunlight for 12 hours).",
+    "Made In": "Argentina, Italy, USA"
+  },
+  "peppermint": {
+    "Name": "Peppermint",
+    "Brand": "doTERRA",
+    "Description": "Cooling and invigorating aroma. May help ease occasional stomach upset.",
+    "Directions": "Diffuse aromatically, apply topically to temples and back of neck, or add a drop to water or a veggie capsule for internal use.",
+    "Made In": "USA, India"
+  },
+  "frankincense": {
+    "Name": "Frankincense",
+    "Brand": "Young Living",
+    "Description": "Promotes feelings of relaxation and well-being. Supports healthy skin.",
+    "Directions": "Diffuse aromatically, apply topically to the skin, or take internally in a capsule.",
+    "Made In": "Oman, Somalia"
+  },
+  "teaTree": {
+    "Name": "Tea Tree (Melaleuca Alternifolia)",
+    "Brand": "doTERRA",
+    "Description": "Cleansing and purifying properties. Beneficial for the skin and scalp.",
+    "Directions": "Apply topically to targeted areas, add to facial cleanser or moisturizer, or apply to scalp during shower.",
+    "Made In": "Australia"
+  },
+  "eucalyptus": {
+    "Name": "Eucalyptus",
+    "Brand": "Young Living",
+    "Description": "Clearing and refreshing aroma. Supports healthy respiratory function.",
+    "Directions": "Diffuse aromatically or apply topically to the chest and throat.",
+    "Made In": "Australia, China"
+  },
+  "rosemary": {
+    "Name": "Rosemary",
+    "Brand": "doTERRA",
+    "Description": "Stimulating and invigorating aroma. May help with focus and concentration.",
+    "Directions": "Diffuse aromatically, apply topically to the temples and back of neck, or add to shampoo for a scalp massage.",
+    "Made In": "Spain, Morocco"
+  },
+  "cedarwood": {
+    "Name": "Cedarwood",
+    "Brand": "Young Living",
+    "Description": "Warm and woody aroma. Promotes relaxation and a grounding atmosphere.",
+    "Directions": "Diffuse aromatically or apply topically to the bottoms of feet or back of neck.",
+    "Made In": "USA, Morocco"
+  },
+  "grapefruit": {
+    "Name": "Grapefruit",
+    "Brand": "doTERRA",
+    "Description": "Uplifting and energizing aroma. Supports healthy metabolism.",
+    "Directions": "Diffuse aromatically, add to water for internal use, or apply topically (avoid sunlight for 12 hours).",
+    "Made In": "USA"
+  },
+  "bergamot": {
+    "Name": "Bergamot",
+    "Brand": "doTERRA",
+    "Description": "Uplifting and joyful aroma. Soothes the skin.",
+    "Directions": "Diffuse aromatically, apply topically (avoid sunlight for 12 hours), or add to tea.",
+    "Made In": "Italy"
+  },
+  "patchouli": {
+    "Name": "Patchouli",
+    "Brand": "Young Living",
+    "Description": "Grounding and balancing aroma. Beneficial for the skin.",
+    "Directions": "Diffuse aromatically or apply topically to desired areas.",
+    "Made In": "Indonesia"
+  },
+  "ylangYlang": {
+    "Name": "Ylang Ylang",
+    "Brand": "doTERRA",
+    "Description": "Sweet and floral aroma. Promotes feelings of calm and relaxation.",
+    "Directions": "Diffuse aromatically, apply topically to the wrists and neck, or add to bath water.",
+    "Made In": "Madagascar"
+  },
+  "sandalwood": {
+    "Name": "Sandalwood",
+    "Brand": "Young Living",
+    "Description": "Rich and woody aroma. Promotes feelings of peace and relaxation.",
+    "Directions": "Diffuse aromatically or apply topically to the forehead and temples.",
+    "Made In": "India, Australia"
+  },
+  "chamomile": {
+    "Name": "Chamomile (Roman)",
+    "Brand": "doTERRA",
+    "Description": "Calming and soothing aroma. Supports restful sleep.",
+    "Directions": "Diffuse aromatically, apply topically to the bottoms of feet or back of neck, or add to herbal tea.",
+    "Made In": "United Kingdom"
+  },
+  "clarySage": {
+    "Name": "Clary Sage",
+    "Brand": "Young Living",
+    "Description": "Herbaceous and slightly floral aroma. Known for its calming properties.",
+    "Directions": "Diffuse aromatically or apply topically to the abdomen, temples, or wrists.",
+    "Made In": "France, Russia"
+  },
+  "ginger": {
+    "Name": "Ginger",
+    "Brand": "doTERRA",
+    "Description": "Warm and spicy aroma. May help ease occasional nausea.",
+    "Directions": "Diffuse aromatically, apply topically to the abdomen, or add a drop to water or a veggie capsule for internal use.",
+    "Made In": "China, Sri Lanka"
+  },
+  "cypress": {
+    "Name": "Cypress",
+    "Brand": "Young Living",
+    "Description": "Fresh and woody aroma. Creates a grounding and purifying atmosphere.",
+    "Directions": "Diffuse aromatically or apply topically to the chest and feet.",
+    "Made In": "France, Spain"
+  },
+  "fennel": {
+    "Name": "Fennel",
+    "Brand": "doTERRA",
+    "Description": "Sweet and licorice-like aroma. Supports healthy digestion.",
+    "Directions": "Diffuse aromatically or take internally in a capsule or water.",
+    "Made In": "Hungary"
+  },
+  "juniperBerry": {
+    "Name": "Juniper Berry",
+    "Brand": "Young Living",
+    "Description": "Woody and spicy aroma. Supports healthy skin and urinary tract.",
+    "Directions": "Diffuse aromatically or apply topically to desired areas.",
+    "Made In": "Croatia, France"
+  },
+  "lemongrass": {
+    "Name": "Lemongrass",
+    "Brand": "doTERRA",
+    "Description": "Citrusy and herbaceous aroma. Energizing and uplifting.",
+    "Directions": "Diffuse aromatically, apply topically to the temples and back of neck, or add to massage oil.",
+    "Made In": "India, Guatemala"
+  },
+  "marjoram": {
+    "Name": "Marjoram",
+    "Brand": "Young Living",
+    "Description": "Herbaceous and slightly sweet aroma. Calming and soothing.",
+    "Directions": "Diffuse aromatically or apply topically to the back of the neck and shoulders.",
+    "Made In": "Egypt, Hungary"
+  },
+  "melissa": {
+    "Name": "Melissa",
+    "Brand": "doTERRA",
+    "Description": "Citrusy and herbaceous aroma. Uplifting and calming.",
+    "Directions": "Diffuse aromatically or apply topically to the forehead, temples, or wrists.",
+    "Made In": "Bulgaria, France"
+  },
+  "myrrh": {
+    "Name": "Myrrh",
+    "Brand": "Young Living",
+    "Description": "Smoky and earthy aroma. Promotes feelings of grounding and well-being.",
+    "Directions": "Diffuse aromatically or apply topically to the skin.",
+    "Made In": "Somalia, Ethiopia"
+  },
+  "neroli": {
+    "Name": "Neroli",
+    "Brand": "doTERRA",
+    "Description": "Floral and citrusy aroma. Uplifting and calming.",
+    "Directions": "Diffuse aromatically or apply topically to the wrists, neck, and temples.",
+    "Made In": "Egypt, Tunisia"
+  },
+  "petitgrain": {
+    "Name": "Petitgrain",
+    "Brand": "Young Living",
+    "Description": "Fresh and citrusy aroma with woody undertones. Uplifting and relaxing.",
+    "Directions": "Diffuse aromatically or apply topically to the back of the neck and temples.",
+    "Made In": "Paraguay"
+  },
+  "rose": {
+    "Name": "Rose",
+    "Brand": "doTERRA",
+    "Description": "Floral and sweet aroma. Promotes feelings of love and well-being.",
+    "Directions": "Diffuse aromatically or apply topically to the wrists, neck, and heart area.",
+    "Made In": "Bulgaria, Turkey"
+  },
+  "spearmint": {
+    "Name": "Spearmint",
+    "Brand": "Young Living",
+    "Description": "Minty and refreshing aroma. Gentler than peppermint.",
+    "Directions": "Diffuse aromatically or apply topically to the temples, back of neck, or abdomen.",
+    "Made In": "USA"
+  },
+  "vetiver": {
+    "Name": "Vetiver",
+    "Brand": "doTERRA",
+    "Description": "Earthy and smoky aroma. Grounding and calming.",
+    "Directions": "Diffuse aromatically or apply topically to the bottoms of feet and back of neck.",
+    "Made In": "Haiti, Indonesia"
+  },
+  "wintergreen": {
+    "Name": "Wintergreen",
+    "Brand": "Young Living",
+    "Description": "Minty and refreshing aroma. Soothing to muscles and joints.",
+    "Directions": "Apply topically to desired areas (dilute with a carrier oil).",
+    "Made In": "China, Nepal"
   }
-
-
 }
-
