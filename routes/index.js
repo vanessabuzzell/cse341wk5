@@ -8,7 +8,7 @@ const router = express.Router();
 //routes.get('/joshua', lesson1Controller.joshuaRoute);
 //routes.get('/harper', lesson1Controller.harperRoute);
 router.use('/', require('./swagger'));
-router.use('/oils', require('./oils'))
+router.use('/oils', require('./oils'));
 
 
 module.exports = router;
