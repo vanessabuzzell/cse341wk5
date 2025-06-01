@@ -30,6 +30,9 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
           }
         }
       },
@@ -45,16 +48,16 @@
                 "Name": {
                   "example": "any"
                 },
-                "brand": {
+                "Brand": {
                   "example": "any"
                 },
-                "discription": {
+                "Discription": {
                   "example": "any"
                 },
-                "directions": {
+                "Directions": {
                   "example": "any"
                 },
-                "made": {
+                "Made": {
                   "example": "any"
                 }
               }
@@ -64,6 +67,9 @@
         "responses": {
           "201": {
             "description": "Created"
+          },
+          "412": {
+            "description": "Precondition Failed"
           },
           "500": {
             "description": "Internal Server Error"
@@ -88,6 +94,9 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
           }
         }
       }
@@ -105,16 +114,16 @@
                 "Name": {
                   "example": "any"
                 },
-                "brand": {
+                "Brand": {
                   "example": "any"
                 },
-                "discription": {
+                "Discription": {
                   "example": "any"
                 },
-                "directions": {
+                "Directions": {
                   "example": "any"
                 },
-                "made": {
+                "Made": {
                   "example": "any"
                 }
               }
@@ -124,6 +133,12 @@
         "responses": {
           "204": {
             "description": "No Content"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "412": {
+            "description": "Precondition Failed"
           },
           "500": {
             "description": "Internal Server Error"
@@ -137,6 +152,9 @@
         "responses": {
           "204": {
             "description": "No Content"
+          },
+          "400": {
+            "description": "Bad Request"
           },
           "500": {
             "description": "Internal Server Error"
