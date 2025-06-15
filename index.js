@@ -4,14 +4,15 @@ const bodyParser = require('body-parser');
 const mongodb = require('./db/connect');
 const port = process.env.PORT || 8080;
 const { auth } = require('express-openid-connect');
+require('dotenv').config();
 
 const config = {
   authRequired: false,
   auth0Logout: true,
-  secret: 'a long, randomly-generated string stored in env',
-  baseURL: 'http://localhost:3000',
-  clientID: 'n3PQl8SY24rkQD2l9RcdWNAyyeKHXIVo',
-  issuerBaseURL: 'https://dev-s1847bx0bi0gtjsv.us.auth0.com'
+  issuerBaseURL: process.env.ISSUER_BASE_URL,
+  clientID: process.env.CLIENT_ID,
+  secret: process.env.SECRET,
+  baseURL: process.env.BASE_URL,
 };
 
 // auth router attaches /login, /logout, and /callback routes to the baseURL
